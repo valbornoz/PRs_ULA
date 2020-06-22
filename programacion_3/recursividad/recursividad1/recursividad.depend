@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1352353782 source:/home/milagro/PR3B2012/recursividad/main.cpp
+	<iostream>
+	"string.h"
+

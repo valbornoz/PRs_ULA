@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1383100003 source:/home/milagro/pr3Contenedor/ConjuntosArrglos/main.cpp
+	<iostream>
+	"conjuntosArreglos.h"
+
+1383231471 /home/milagro/pr3Contenedor/ConjuntosArrglos/conjuntosArreglos.h
+	"conjuntos.h"
+
+1383100169 /home/milagro/pr3Contenedor/ConjuntosArrglos/conjuntos.h
+

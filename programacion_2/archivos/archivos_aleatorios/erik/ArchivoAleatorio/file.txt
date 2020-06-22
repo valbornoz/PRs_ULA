@@ -1,0 +1,120 @@
+
+Marca: daewoo
+Modelo: tacuma
+Color: plateado
+Placa: oai38w
+
+
+Marca: hiundai
+Modelo: elantra
+Color: gris
+Placa: htt123
+
+
+Marca: chevrolet
+Modelo: impala
+Color: azul
+Placa: npi22h
+
+
+Marca: toyota
+Modelo: hylux
+Color: verde
+Placa: hpi111
+
+
+Marca: ford
+Modelo: fiesta
+Color: blanco
+Placa: jjj999
+
+
+Marca: daewoo
+Modelo: matiz
+Color: verde
+Placa: ati87p
+
+
+Marca: nissan
+Modelo: sentra
+Color: blanco
+Placa: nnn249
+
+
+Marca: hiundai
+Modelo: getz
+Color: azul
+Placa: aab45b
+
+
+Marca: toyota
+Modelo: terios
+Color: plateado
+Placa: zzz112
+
+
+Marca: dodge
+Modelo: dakota
+Color: azul
+Placa: hii33i
+
+
+Marca: dodge
+Modelo: caliber
+Color: blanco
+Placa: zhi29t
+
+
+Marca: ford
+Modelo: ecosport
+Color: blanco
+Placa: gwx123
+
+
+Marca: citroen
+Modelo: c3
+Color: rojo
+Placa: def372
+
+
+Marca: fiat
+Modelo: palio
+Color: morado
+Placa: lcd543
+
+
+Marca: chevrolet
+Modelo: silverado
+Color: rojo
+Placa: nml654
+
+
+Marca: chevrolet
+Modelo: express
+Color: negro
+Placa: pbn987
+
+
+Marca: ford
+Modelo: explorer
+Color: rojo
+Placa: mmm123
+
+
+Marca: fiat
+Modelo: siena
+Color: gris
+Placa: aab24h
+
+
+Marca: ford
+Modelo: fusion
+Color: negro
+Placa: jtp117
+
+
+Marca: chevrolet
+Modelo: grantblazer
+Color: verde
+Placa: hht914
+

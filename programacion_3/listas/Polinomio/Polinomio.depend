@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1385606553 source:/home/milagro/pr3A2013/Polinomio/main.cpp
+	"termino.h"
+	"polinomio.h"
+
+1385600327 /home/milagro/pr3A2013/Polinomio/termino.h
+	<iostream>
+
+1385606972 /home/milagro/pr3A2013/Polinomio/polinomio.h
+	<iostream>
+	"Dnode.h"
+	"Dlist.h"
+	"termino.h"
+
+1384353785 /home/milagro/pr3A2013/Polinomio/Dnode.h
+	<assert.h>
+
+1384353794 /home/milagro/pr3A2013/Polinomio/Dlist.h
+	<iostream>
+	<assert.h>
+	"Dnode.h"
+

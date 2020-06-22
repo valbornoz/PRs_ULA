@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1359084131 source:/home/milagro/PR3B2012/contenedorArrOrd/main.cpp
+	<iostream>
+	<assert.h>
+	"arregloOrd.h"
+
+1359084291 /home/milagro/PR3B2012/contenedorArrOrd/arregloOrd.h
+
+1359086495 source:/home/milagro/pr3A2013/contenedorArrOrd/main.cpp
+	<iostream>
+	<assert.h>
+	"arregloOrd.h"
+
+1359086539 /home/milagro/pr3A2013/contenedorArrOrd/arregloOrd.h
+

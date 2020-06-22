@@ -1,0 +1,32 @@
+UNIDAD II: Almacenamiento de datos (5 Sesiones de 2 horas)
+
+En esta unidad se presentan al estudiante los distintos medios de almacenamiento de datos, así como las técnicas para la organización
+y manipulación de grandes volúmenes de datos en memoria secundaria. Una vez estudiadas las distintas técnicas el estudiante tendrá el 
+conocimiento necesario tanto para implantar cada una de las formas de organizar los datos en memoria secundaria como implantar pequeñas
+aplicaciones que hagan uso de ello.
+
+
+Introducción a los archivos (Archivos Texto – Archivos de Registros, STL: ifstream, ofstream, iostream).[v]
+Archivos secuénciales.[v]
+Archivos de acceso directo.[v]
+Transformación clave dirección – Archivos Hash.[v]
+Archivos de acceso aleatorio.[v]
+Introducción a los archivos de acceso secuencial indexados.[]
+Creación de índices densos y no densos.[v]
+
+
+Especifique un algoritmo para insertar un registro en un archivo aleatorio con tratamiento de colicion
+por medio de cubetas encadenadas y area de desborde separada. asuma una cantidad de registro por cubetas de 3.[v]
+
+
+
+http://www.programacionfacil.com/cpp/start.html
+http://webdelprofesor.ula.ve/ingenieria/eladio/?page_id=626
+http://webdelprofesor.ula.ve/ingenieria/rafael/programacion-2/
+http://webdelprofesor.ula.ve/ingenieria/rafael/programacion-2/descripcion-programacion-2/
+http://webdelprofesor.ula.ve/ingenieria/rafael/p2/subprogramas.pdf
+http://arco.esi.uclm.es/~david.villa/pensar_en_C++/vol1/ch03s10s02.html
+
+
+https://www.youtube.com/watch?v=fcdoUhKYB50[v]		//Archivo Secuencial Indexado
+http://www3.uji.es/~mmarques/f47/teoria/preg_tema2.pdf[v]  //indices

@@ -1,0 +1,2 @@
+1) El algoritmo mantiene el mismo orden y de esta manera poder mantener la eficiencia, o aumentarla en caso de q se introduzca un dato compuesto.
+2) NO, Creo que seria algo complicado implementar el algoritmo shell sort con listas, devido a que ese metodo se basa en una distancia, y con listas no se tiene conocimiento de la cantidad de elementos, o que tan lejos este uno de otro, por esto el calculo de dicha distancia, no serviria para nada, no tendria sentido.

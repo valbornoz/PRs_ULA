@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1352317702 source:/home/milagro/stackA/main.cpp
+	<iostream>
+	"stack.h"
+
+1352317738 /home/milagro/stackA/stack.h
+

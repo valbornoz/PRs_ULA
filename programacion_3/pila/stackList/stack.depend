@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1352297263 source:/home/milagro/pilas/main.cpp
+	<iostream>
+	"sList.h"
+	"stack.h"
+
+1352296584 /home/milagro/pilas/sList.h
+	"iostream"
+	"sNode.h"
+
+1352296755 /home/milagro/pilas/sNode.h
+	"iostream"
+
+1352297239 /home/milagro/pilas/stack.h
+	"sList.h"
+	"sNode.h"
+
+1360876308 source:/home/milagro/PR3B2012/pilas/main.cpp
+	<iostream>
+	"sList.h"
+	"stacklist.h"
+
+1352296584 /home/milagro/PR3B2012/pilas/sList.h
+	"iostream"
+	"sNode.h"
+
+1352296755 /home/milagro/PR3B2012/pilas/sNode.h
+	"iostream"
+
+1360877078 /home/milagro/PR3B2012/pilas/stacklist.h
+	"sList.h"
+	"sNode.h"
+

@@ -1,0 +1,10 @@
+20433375,alex,romero,20,2043.64
+20563456,sophia,perez,19,614.05
+22983427,irina,fasciana,21,0
+20433375,alex,romero,20,2043.64
+20563456,sophia,perez,19,614.05
+22983427,irina,fasciana,21,0
+20433375,alex,romero,20,2043.64
+20563456,sophia,perez,19,614.05
+22983427,irina,fasciana,21,0
+20433375,alex,romero,20,2043.64
